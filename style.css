@@ -33,9 +33,3 @@ body{
     border-radius: 50%;
     animation: bounce;
 }
-
-@keyframes bounce{
-    0% {
-        
-    }
-}
