@@ -9,6 +9,6 @@
 
 ## What am I building?
 
-**Basically, we will be starting with a circle in the center which will bounce infintely from one side to the other** 
+- **Basically, we will be starting with a circle in the center which will bounce infintely from one side to the other** 
 
-![Basic Setup](./first-img.PNG)
+![Basic Setup](/images/first-img.PNG)
