@@ -1,1 +1,3 @@
-console.log("I hope this works!")
+
+
+const ball = document.querySelector(".ball")

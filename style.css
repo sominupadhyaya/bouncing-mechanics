@@ -13,8 +13,29 @@ body{
 }
 
 .main{
-    height: 60vh;
-    width: 60vh;
+    height: 80vh;
+    width: 80vh;
     border : 3px solid whitesmoke;
 }
 
+
+.square{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    height: inherit;
+}
+
+.ball{
+    height: 1.5em;
+    width: 1.5em;
+    background-color: blue;
+    border-radius: 50%;
+    animation: bounce;
+}
+
+@keyframes bounce{
+    0% {
+        
+    }
+}
