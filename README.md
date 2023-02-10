@@ -11,4 +11,4 @@
 
 - **Basically, we will be starting with a circle in the center which will bounce infintely from one side to the other** 
 
-![Basic Setup](/images/first-img.PNG)
+<img src="./images/first-img.PNG" alt="Basic Setup"  width="450" height="400">
